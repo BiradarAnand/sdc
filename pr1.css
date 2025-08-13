@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-image:url('pr1.jpg');
+    background-size: cover
+}
+.a{
+    color:blue
+}
+form{
+    order: inherit;
+
+    text-orientation: sideways-right;
+    
+}
+/* write a javascript progam to determine largest of three numbers using nested if else
+using switch statement display day of this week based on number */
